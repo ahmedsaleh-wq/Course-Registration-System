@@ -1,0 +1,39 @@
+Engineering 1210-Engineering Communications
+Engineering 1230-Engineering Mechanics I: Statics
+Engineering 1410-Sustainability in Engineering Design
+Chemistry 1110-General Chemistry I
+Mathematics 1910-Single Variable Calculus I
+UPEI 1010-Writing Studies
+Engineering 1220-Engineering Analysis
+Engineering 1250-Materials Science
+Engineering 1310-Computer Programming with Engineering Applications
+Engineering 1340 - Engineering Mechanics II: Dynamics
+Mathematics 1920-Single Variable Calculus II
+Engineering 2130-Statistics for Engineering Applications
+Engineering 2210-Engineering Projects I
+Engineering 2310-Strength of Materials
+Engineering 2610-Thermo Fluids I: Thermodynamics
+Engineering 2810-Electric Circuits
+Mathematics 2910-Multivariable and Vector Calculus
+Engineering 2220-Engineering Projects II
+Engineering 2360-Materials, Mechanics, and Manufacturing
+Engineering 2620-Thermo Fluids II: Fluid Mechanics
+Engineering 2830-Digital Logic Design
+Mathematics 2610-Linear Algebra
+Mathematics 3010-Differential Equations
+Engineering 3220-Engineering Measurements
+Engineering 3630-Thermo Fluids III: Heat Transfer and Thermodynamic Cycles
+Engineering 3710-Project-Based Professional Practice I
+Engineering 3810-Systems Engineering
+Engineering 3430-Technology Management and Entrepreneurship
+Engineering 3270-Machines & Automatic Controls
+Engineering 3720-Project-Based Professional Practice II
+Engineering 3820-System Dynamics with Simulation
+Engineering 4210-Facilitated Study & Experimental Practice
+Engineering 4710-Project-Based Professional Practice III
+Engineering 4850-Computational Methods for Engineering Design
+Engineering 4720-Project-Based Professional Practice IV
+Engineering 3340-Introduction to Mechatronics Engineering
+Engineering 3370-Mechatronic System Integration and Interface Design
+Engineering 3380-Real-time Embedded Systems
+Engineering 3390-Introduction to Mechatronic Computer-Aided Product Development, Modelling and Simulation

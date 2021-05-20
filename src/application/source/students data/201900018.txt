@@ -1,0 +1,16 @@
+MATH 1910-Single Variable Calculus I
+MATH 1920-Single Variable Calculus II
+MATH 2610-Linear Algebra I
+STAT 1910-Intro to Probability and Statistics
+CS 1910-Computer Science I
+CS 1920-Computer Science II
+UPEI 1020-Inquiry Studies
+CS 2520-Computer Organization and Architecture
+CS 2620-Comparative Programming Languages
+CS 2910-Computer Science III
+CS 2920-Data Structures and Algorithms
+CS 2820-Programming Practices
+MATH 2420-Combinatorics I
+MCS 2050-C++ Technology Lab
+MATH 2910-Multivariable Calculus
+MCS 3320-Theory of Computing

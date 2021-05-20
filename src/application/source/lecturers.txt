@@ -1,0 +1,106 @@
+Michael,10000000,60000000,MATH 1910-Single Variable Calculus I
+Christopher,10000001,60000010,MATH 1920-Single Variable Calculus II
+Jessica,10000002,60000020,MATH 2610-Linear Algebra I
+Matthew,10000003,60000030,STAT 1910-Intro to Probability and Statistics
+Ashley,10000004,60000040,CS 1910-Computer Science I
+Jennifer,10000005,60000050,CS 1920-Computer Science II
+Joshua,10000006,60000060,UPEI 1020-Inquiry Studies
+Amanda,10000007,60000070,CS 2520-Computer Organization and Architecture
+Daniel,10000008,60000080,CS 2620-Comparative Programming Languages
+David,10000009,60000090,CS 2910-Computer Science III
+James,10000010,60000100,CS 2920-Data Structures and Algorithms
+Robert,10000011,60000110,CS 2820-Programming Practices
+John,10000012,60000120,MATH 2420-Combinatorics I
+Joseph,10000013,60000130,MCS 2050-C++ Technology Lab
+Andrew,10000014,60000140,MATH 2910-Multivariable Calculus
+Ryan,10000015,60000150,MCS 3320-Theory of Computing
+Brandon,10000016,60000160,CS 3420-Computer Communications
+Jason,10000017,60000170,CS 3520-Operating Systems
+Justin,10000018,60000180,CS 3610-Analysis and Design of Algorithms
+Sarah,10000019,60000190,CS 3620-Software Design and Architecture
+William,10000020,60000200,CS 3710-Database Systems
+Jonathan,10000021,60000210,CS 4060-Cloud Computing
+Stephanie,10000022,60000220,CS 4440-Data Science
+Brian,10000023,60000230,CS 4610-Wireless Sensor Networks
+Nicole,10000024,60000240,CS 4110-Artificial Intelligence and Automated Reasoning
+Nicholas,10000025,60000250,CS 4120-Machine Learning
+Anthony,10000026,60000260,CS 4810-Software Engineering
+Heather,10000027,60000270,CS 4820-Software Systems Development Project
+Eric,10000028,60000280,CS 4840-Prototype Systems Development
+Elizabeth,10000029,60000290,MCS 4900-Honours Research Project
+Adam,10000030,60000300,MCS 3050-Tutoring in Mathematical and Computational Sciences
+Megan,10000031,60000310,MCS 4210-Professional Communication and Practice
+
+Melissa,10000032,60000320,Engineering 1210-Engineering Communications
+Kevin,10000033,60000330,Engineering 1230-Engineering Mechanics I: Statics
+Steven,10000034,60000340,Engineering 1410-Sustainability in Engineering Design
+Thomas,10000035,60000350,Chemistry 1110-General Chemistry I
+Timothy,10000036,60000360,Mathematics 1910-Single Variable Calculus I
+Christina,10000037,60000370,UPEI 1010-Writing Studies
+Kyle,10000038,60000380,Engineering 1220-Engineering Analysis
+Rachel,10000039,60000390,Engineering 1250-Materials Science
+Laura,10000040,60000400,Engineering 1310-Computer Programming with Engineering Applications
+Lauren,10000041,60000410,Engineering 1340 - Engineering Mechanics II: Dynamics
+Amber,10000042,60000420,Mathematics 1920-Single Variable Calculus II
+Brittany,10000043,60000430,Engineering 2130-Statistics for Engineering Applications
+Danielle,10000044,60000440,Engineering 2210-Engineering Projects I
+Richard,10000045,60000450,Engineering 2310-Strength of Materials
+Kimberly,10000046,60000460,Engineering 2610-Thermo Fluids I: Thermodynamics
+Jeffrey,10000047,60000470,Engineering 2810-Electric Circuits
+Amy,10000048,60000480,Mathematics 2910-Multivariable and Vector Calculus
+Crystal,10000049,60000490,Engineering 2220-Engineering Projects II
+Michelle,10000050,60000500,Engineering 2360-Materials, Mechanics, and Manufacturing
+Tiffany,10000051,60000510,Engineering 2620-Thermo Fluids II: Fluid Mechanics
+Jeremy,10000052,60000520,Engineering 2830-Digital Logic Design
+Benjamin,10000053,60000530,Mathematics 2610-Linear Algebra
+Mark,10000054,60000540,Mathematics 3010-Differential Equations 
+Emily,10000055,60000550,Engineering 3220-Engineering Measurements
+Aaron,10000056,60000560,Engineering 3630-Thermo Fluids III: Heat Transfer and Thermodynamic Cycles
+Charles,10000057,60000570,Engineering 3710-Project-Based Professional Practice I
+Rebecca,10000058,60000580,Engineering 3810-Systems Engineering
+Jacob,10000059,60000590,Engineering 3430-Technology Management and Entrepreneurship
+Stephen,10000060,60000600,Engineering 3270-Machines & Automatic Controls
+Patrick,10000061,60000610,Engineering 3720-Project-Based Professional Practice II
+Sean,10000062,60000620,Engineering 3820-System Dynamics with Simulation
+Erin,10000063,60000630,Engineering 4210-Facilitated Study & Experimental Practice
+Zachary,10000064,60000640,Engineering 4710-Project-Based Professional Practice III
+Jamie,10000065,60000650,Engineering 4850-Computational Methods for Engineering Design
+Kelly,10000066,60000660,Engineering 4720-Project-Based Professional Practice IV
+Samantha,10000067,60000670,Engineering 3340-Introduction to Mechatronics Engineering
+Nathan,10000068,60000680,Engineering 3370-Mechatronic System Integration and Interface Design
+Sara,10000069,60000690,Engineering 3380-Real-time Embedded Systems
+Dustin,10000070,60000700,Engineering 3390-Introduction to Mechatronic Computer-Aided Product Development, Modelling and Simulation
+
+Paul,10000071,60000710,Accounting 1010 (Introduction to Financial Accounting)
+Angela,10000072,60000720,Business 1410 (Marketing)
+Tyler,10000073,60000730,Business 1710 (Organizational Behaviour)
+Scott,10000074,60000740,Economics 1010 (Introductory Microeconomics)
+Katherine,10000075,60000750,Economics 1020 (Introductory Macroeconomics)
+Andrea,10000076,60000760,Math 1110 (Finite Mathematics)
+Gregory,10000077,60000770,UPEI 1010 (Writing Studies)
+Erica,10000078,60000780,Accounting 2210 (Managerial Accounting)
+Mary,10000079,60000790,Business 2120 (Business Presentations and Communications)
+Travis,10000080,60000800,Business 2310 (Corporate Finance)
+Lisa,10000081,60000810,Business 2410 (Management Information Systems)
+Kenneth,10000082,60000820,Business 2510 (Introduction to Management Science)
+Bryan,10000083,60000830,Business 2720 (Human Resource Management)
+Lindsey,10000084,60000840,Business 2880 (Research and Evidence-Based Management)
+Kristen,10000085,60000850,Business 3010 (Business Law Part I)
+Jose,10000086,60000860,Business 3330 (Integrated Cases in Corporate Finance)
+Alexander,10000087,60000870,Business 3430 (Integrated Cases in Marketing)
+Jesse,10000088,60000880,Business 3510 (Operations Management)
+Katie,10000089,60000890,Business 3710 (Entrepreneurship and New Ventures)
+Lindsay,10000090,60000900,Business 3910 (Strategic Management)
+Shannon,10000091,60000910,English 3810 (Professional Writing)
+Vanessa,10000092,60000920,Business 4850 (Developing Management Skills)
+Courtney,10000093,60000930,Business 4950 (Business Research I)
+Christine,10000094,60000940,Business 2870 (Introduction to International Business)
+Alicia,10000095,60000950,Business 4760 (Intercultural Management)
+Roxanne,10000096,60000960,Business 4770 (International Marketing)
+Verdie,10000097,60000970,Business 4390 (International Finance)
+Leeanne,10000098,60000980,Business 4810 (Integrated Marketing Communications)
+Clare,10000099,60000990,Business 4430 (Consumer Behaviour)
+Verlie,10000100,60001000,Business 4440 (Market Research)
+Denice,10000101,60001001,Business 4450 (Brand Management)
+Gloria,10000102,60001002,Business 4460 (Personal Selling and Sales)
+Janay,10000103,60001003,Business 4770 (International Marketing)
